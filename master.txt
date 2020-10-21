@@ -4,4 +4,8 @@ f_2342
 f_2356
 f_0002
 f_0003
+<<<<<<< Updated upstream
 f_0005
+=======
+g_0006
+>>>>>>> Stashed changes
